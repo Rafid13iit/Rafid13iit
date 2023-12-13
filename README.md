@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafid13iit&label=Profile%20views&color=0e75b6&style=flat" alt="rafid13iit" /> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **Different React Projects**
 
 - 🌱 I’m currently learning **ReactJS, AngularJS, talwind CSS, NodeJS, mongoDB**
 
@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rafid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafid" height="30" width="40" /></a>
-<a href="https://fb.com/rafid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafid" height="30" width="40" /></a>
-<a href="https://www.behance.net/rafid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rafid" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rafid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rafid" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rafid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rafid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rafid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ibne-bin-rafid-2ba20026b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafid" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Rafid.BSSE13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafid" height="30" width="40" /></a>
+<a href="https://www.behance.net/rafidhaque2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rafid" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rafid13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rafid" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Rafid1330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rafid" height="30" width="40" /></a>
+<a href="https://leetcode.com/Rafid13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
