@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Aspiring Developer | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafid13iit&label=Profile%20views&color=0e75b6&style=flat" alt="rafid13iit" /> </p>
-<img align="right" src="https://img.etimg.com/thumb/width-420,height-315,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="GIF" />
+<img align="right" width="400" height="300" src="https://img.etimg.com/thumb/width-420,height-315,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="GIF" />
 
 
 - 🔭 I’m currently working on **Different React Projects**
