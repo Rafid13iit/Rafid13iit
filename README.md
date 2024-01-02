@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, Assalamualaikum👋, I'm Rafid</h1>
+<h1 align="center">Hey there👋, I'm Rafid</h1>
 <h3 align="center">Software Engineering Student | Aspiring Developer | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafid13iit&label=Profile%20views&color=0e75b6&style=flat" alt="rafid13iit" /> </p>
