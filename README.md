@@ -33,7 +33,6 @@
 ###
 
 <div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafid13iit&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafid13iit&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafid13iit&theme=dark)
