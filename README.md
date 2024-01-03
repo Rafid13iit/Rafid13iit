@@ -1,5 +1,9 @@
-<h1 align="center">Hey there👋, I'm Rafid</h1>
-<h3 align="center">Software Engineering Student | Aspiring Developer | Tech Enthusiast</h3>
+<div align="center" style="background-color: #222; padding: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=008080&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey+there%2C+This+is+Rafid+----+&repeat=false">
+</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=4EA0A1&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student+from+IIT,+University+of+Dhaka;Aspiring+Developer;Tech+Enthusiast;UI/UX+Designer;Adaptable+and+Resourceful;Passionate+about+learning;"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafid13iit&label=Profile%20views&color=0e75b6&style=flat" alt="rafid13iit" /> </p>
 <img align="right" width="350" height="200" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" />
