@@ -1,8 +1,8 @@
-<div align="center" style="background-color: #222; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=008080&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey+there%2C+This+is+Rafid+----+&repeat=false">
+<div align="center" style="background-color: #282c35; padding: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=00b3b3&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey+there%2C+This+is+Rafid+----+&repeat=false">
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=4EA0A1&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student+from+IIT,+University+of+Dhaka;Aspiring+Developer;Tech+Enthusiast;UI/UX+Designer;Adaptable+and+Resourceful;Passionate+about+learning;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=4EA0A1&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student+from+IIT,+DU;Aspiring+Developer;Tech+Enthusiast;UI/UX+Designer;Adaptable+and+Resourceful;Passionate+about+learning;"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafid13iit&label=Profile%20views&color=0e75b6&style=flat" alt="rafid13iit" /> </p>
@@ -33,8 +33,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafid13iit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafid13iit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafid13iit&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafid13iit&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafid13iit&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafid13iit&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafid13iit&theme=dark&utcOffset=8)
 </div>
 
 ###
