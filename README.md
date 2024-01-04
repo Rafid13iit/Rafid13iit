@@ -33,11 +33,12 @@
 ###
 
 <div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafid13iit&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafid13iit&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafid13iit&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafid13iit&theme=dark&utcOffset=8)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafid13iit&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafid13iit&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafid13iit&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafid13iit&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafid13iit&theme=dracula&utcOffset=8)
 </div>
 
 ###
@@ -47,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rafid13iit&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=rafid13iit&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
