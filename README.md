@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #282c35; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=00b3b3&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey+there%2C+This+is+Rafid+----+&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=00b3b3&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Assalamualaikum%2C+This+is+Rafid+----+&repeat=false">
 </div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=4EA0A1&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student+from+IIT,+DU;Aspiring+Developer;Tech+Enthusiast;UI/UX+Designer;Adaptable+and+Resourceful;Passionate+about+learning;"></a>
