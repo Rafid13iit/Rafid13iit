@@ -9,9 +9,9 @@
 <img align="right" width="350" height="200" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" />
 
 
-- 🔭 I’m currently working on **Different React Projects**
+- 🔭 I’m currently working on **Different NextJS Projects**
 
-- 🌱 I’m currently learning **ReactJS, AngularJS, talwind CSS, NodeJS, mongoDB**
+- 🌱 I’m currently learning **NextJS, ReactJS, Tailwind CSS, NodeJS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rafid-portfolio.vercel.app/)
 
