@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **ReactJS, AngularJS, talwind CSS, NodeJS, mongoDB**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://rafid13iit.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rafid-portfolio.vercel.app/)
 
-- 📫 How to reach me **rafidssrr.6767@gmail.com**
+- 📫 How to reach me **bsse1330@iit.du.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
